@@ -1,6 +1,6 @@
 {
 	"plugins": {
-		"postcss-smart-import": {},
+		"postcss-nested-import": {},
 		"postcss-cssnext": {
 			"browsers": [
 				"ie > 10",
